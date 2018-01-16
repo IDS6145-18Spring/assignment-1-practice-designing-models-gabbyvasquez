@@ -10,13 +10,13 @@ A **smart city** is an urban area that uses different types of electronic data c
 
 ![Image of Smart City](images/smartcity.png)
 
-(remove: States your motivation clearly: why is it important / interesting to solve this problem?)
-(remove: Add real-world examples, if any)
-(remove: Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
+(It makes me sad that I cannot keep all animals warm so I want to build a city where no animal will be cold)
+(Nubs the cat is an outdoor cat and is a sweetie who deserves to live her best life. She does not like being indoors but she cold during the winter months and I want her to live in a world where she does not have to live in a home but can maintain warmth)
+(Sadlly nothing has been to done to solve this problem)
 
 ## Requirements (Experimental Design)
 
-(remove: You should start by specifying a set of requirements. I specified a topic Smart Cities but what exactly does that mean-  you should practice formulating your own set of requirements and an experiment. Define a hypothesis of a problem cities face and how a smart city would possibly help alleviate this issue. This helps you think about your problem communication and system objectives inputs, functions, and outputs - they should be clearly specified.)
+(Stray animals are left to freeze in the cold during the cold winter months)
 
 ## Smart City (My Problem) Model
 
