@@ -1,22 +1,22 @@
 import math
 from vegtable import vegtable
 
-class pepper(vegtable):
+class pepper(vegtable): #name
     '''This is a string bean'''
 
     def __init__(self, n, s, w, wet, c, a, b):
         '''Intializes the vegtable'''
-        self.length = 1.0  # start as baby string bean
-        self.radius = 0.3
+        self.length = 1.0  # start as baby string bean #attributes
+        self.radius = 0.3 #attributes
         vegtable.__init__(self,n, s, w, wet, c, a, b)
 
 
-    def Volume(self):
+    def Volume(self): #function
         '''The volume of a string bean is like a cylinder'''
-        return math.pi * self.radius ** 2 * self.length
+        return math.pi * self.radius ** 2 * self.length #not an interger; float
 
 
-    def Grow(self):
+    def Grow(self): #functionn
         '''This is how a stringbean grows'''
         rate =  self.sun*self.water / 1000
         self.radius += 0.14 * rate
@@ -24,6 +24,6 @@ class pepper(vegtable):
         self.weight += 0.5 * rate
 
         volume = self.Volume()
-        self.water -= (volume* self.weight) / 2.03
+        self.water -= (volume* self.weight) / 2.03 
         self.sun = 0.0
         return None
