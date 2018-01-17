@@ -11,8 +11,8 @@ A **smart city** is an urban area that uses different types of electronic data c
 ![Image of Smart City](images/smartcity.png)
 
 (It makes me sad that I cannot keep all animals warm so I want to build a city where no animal will be cold)
-(Nubs the cat is an outdoor cat and is a sweetie who deserves to live her best life. She does not like being indoors but she cold during the winter months and I want her to live in a world where she does not have to live in a home but can maintain warmth)
-(Sadlly nothing has been to done to solve this problem)
+(Nubs the cat is an outdoor cat and is a sweetie who deserves to live her best life. I want her to live in a world where she does not have to worry about being cold.)
+(Sadlly nothing has been to done to solve this problem.)
 
 ## Requirements (Experimental Design)
 
