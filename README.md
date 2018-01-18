@@ -17,6 +17,7 @@ A **smart city** is an urban area that uses different types of electronic data c
 ## Requirements (Experimental Design)
 
 (Stray animals are left to freeze in the cold during the cold winter months)
+(
 
 ## Smart City (My Problem) Model
 
@@ -28,7 +29,7 @@ A **smart city** is an urban area that uses different types of electronic data c
 * [**Behavior Diagram**](model/behavior_diagram.md) - provides details of (what are you providing details of)
 * [**Agent / User case** (if appropriate)](model/agent_usecase_diagram.md) - provides details of (what are you providing details of)
 
-## Smart City (My Problem) Simulation
+## Smart City (Keeping the Stray Animals Warm) Simulation
 
 (remove: for part 3 add two to three sentences here and link the [**(your own name)**](model/README.md) file in the analysis folder - which describe how you would simulate this - type of simulation, rough details -inputs, outputs - how it will help you analyze your experimental hypothesis, or nullify your null hypothesis.)
 
