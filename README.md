@@ -30,7 +30,7 @@ A **smart city** is an urban area that uses different types of electronic data c
 
 ## Smart City (Safety of the outdoor animals) Simulation
 
-(remove: for part 3 add two to three sentences here and link the [**(your own name)**](model/README.md) file in the analysis folder - which describe how you would simulate this - type of simulation, rough details -inputs, outputs - how it will help you analyze your experimental hypothesis, or nullify your null hypothesis.)
+(remove: for part 3 add two to three sentences here and link the [**(Gabby)**] C:\Users\Gabrielle Vasquez\Documents\g.vasquez\Assignment 1\assignment-1-practice-designing-models-gabbyvasquez\analysis
 
 
 ## Smart City (My Problem) Model
