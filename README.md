@@ -16,8 +16,7 @@ A **smart city** is an urban area that uses different types of electronic data c
 
 ## Requirements (Experimental Design)
 
-(Stray animals are left to freeze in the cold during the cold winter months)
-(
+(The artifical intellgience will have to detect whether or not they have a stray animal in the visual field. If they detect that the animal is not mirco-chipped and has less than 20% of body fat, the animal is a stray and they are to take the animal to a shelter. If the animal they have encountered does not meet both requirements, they are to take no action with the animal.)
 
 ## Smart City (My Problem) Model
 
