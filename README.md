@@ -2,7 +2,7 @@
 (remove: **text between brackets to be removed**)
 
 > * Participant name: (Gabby)
-> * Project Title: (Keeping the Stray Animals Warm)
+> * Project Title: (Safety of the outdoor animals)
 
 ## General Introduction
 
@@ -10,9 +10,9 @@ A **smart city** is an urban area that uses different types of electronic data c
 
 ![Image of Smart City](images/smartcity.png)
 
-(It makes me sad that I cannot keep all animals warm so I want to build a city where no animal will be cold)
-(Nubs the cat is an outdoor cat and is a sweetie who deserves to live her best life. I want her to live in a world where she does not have to worry about being cold.)
-(Sadlly nothing has been to done to solve this problem.)
+(When it comes to rescuing stary animals from the streets, it can be diffcult to take them from the street due to them being scared of being approached. An artifcal intellgient system will be able to take these animals off the street and to the shelter with ease.)
+(My inspiration to do this was because of a cat named Nubs who is an the outdoors cat. She does not mind being approached by others, but when Irma came around, it was diffcult bringing her indoors to protect her from the storm (thankfully, we were able to bring her in to safety). Not many animals are this fortunate to get this type of care)
+(When it comes to natural disaters like Hurricane Irma, there has not been much efforts done to bring in stray animals into shelters to be protected. The purpose of this project is to develop an artifical intelligent system that will detect stary animals and bring them to safety. The system will be able to snatch up these stray animals without struggle.)
 
 ## Requirements (Experimental Design)
 
@@ -29,7 +29,7 @@ A **smart city** is an urban area that uses different types of electronic data c
 * [**Behavior Diagram**](model/behavior_diagram.md) - provides details of (what are you providing details of)
 * [**Agent / User case** (if appropriate)](model/agent_usecase_diagram.md) - provides details of (what are you providing details of)
 
-## Smart City (Keeping the Stray Animals Warm) Simulation
+## Smart City (Safety of the outdoor animals) Simulation
 
 (remove: for part 3 add two to three sentences here and link the [**(your own name)**](model/README.md) file in the analysis folder - which describe how you would simulate this - type of simulation, rough details -inputs, outputs - how it will help you analyze your experimental hypothesis, or nullify your null hypothesis.)
 
