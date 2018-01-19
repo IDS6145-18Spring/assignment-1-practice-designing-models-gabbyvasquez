@@ -1,0 +1,4 @@
+## Smart City (Bringing in stray animals during natural disater preparation.) Model
+
+(The framework of this code for this assignment is to demostarte the process that the AI will be going through to decide if they are encountering a stray animal to bring in to a shelter.)
+(The AI.py script describes what the AI will be doing when it sees an animal and how it will decide that they are dealing with a stray animal. If the AI detects that the animal they have encountered has a body fat of less than 20% AND is not mirco-chipped, it is a stray animal. If the animal does not meet the requirements for both, then it is not a stray animal. The strayanimal.py script describes the types of animals that it will be encountering. For this example, the AI will be either searching for cats and dogs to bring to the shelter. The following code for cats and gogs describes their physical appearance that makes them an animal and the behaviors that they will exhibit.)
