@@ -26,9 +26,15 @@ A **smart city** is an urban area that uses different types of electronic data c
 (remove: Look at the [**Object Diagram**](model/object_diagram.md) for how to structure this part of Part 2 for each diagram. Only the Object diagram has the template, the rest are blank. )
 
 * [**Object Diagram**](model/object_diagram.md) - provides the high level overview of components
+* 
+![IMG-8535.JPG](C:\Users\Gabrielle Vasquez\Documents\g.vasquez\Assignment 1\assignment-1-practice-designing-models-gabbyvasquez\images\IMG-8535.JPG)
+
 * [**Class Diagram**](model/class_diagram.md) - provides details of (what are you providing details of)
+* 
+![IMG-8536.JPG](C:\Users\Gabrielle Vasquez\Documents\g.vasquez\Assignment 1\assignment-1-practice-designing-models-gabbyvasquez\images\IMG-8536.JPG)
+
 * [**Behavior Diagram**](model/behavior_diagram.md) - provides details of (what are you providing details of)
-* [**Agent / User case** (if appropriate)](model/agent_usecase_diagram.md) - provides details of (what are you providing details of)
+
 
 ## Smart City (Safety of the outdoor animals) Simulation
 
@@ -41,3 +47,14 @@ C:\Users\Gabrielle Vasquez\Documents\g.vasquez\Assignment 1\assignment-1-practic
 
 ## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
 Here [**we provide an overview**](code/POTS_system/README.md) of the **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model and provide a source code template.
+
+![IMG-8538.JPG](C:\Users\Gabrielle Vasquez\Documents\g.vasquez\Assignment 1\assignment-1-practice-designing-models-gabbyvasquez\images\IMG-8538.JPG)
+
+![IMG-8539.JPG](C:\Users\Gabrielle Vasquez\Documents\g.vasquez\Assignment 1\assignment-1-practice-designing-models-gabbyvasquez\images\IMG-8539.JPG)
+
+![IMG-8540.JPG](C:\Users\Gabrielle Vasquez\Documents\g.vasquez\Assignment 1\assignment-1-practice-designing-models-gabbyvasquez\images\IMG-8540.JPG)
+
+
+![IMG-8541.JPG](C:\Users\Gabrielle Vasquez\Documents\g.vasquez\Assignment 1\assignment-1-practice-designing-models-gabbyvasquez\images\IMG-8541.JPG)
+
+
